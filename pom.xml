@@ -17,11 +17,11 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.matsim-scenarios</groupId>
-	<artifactId>matsim-template</artifactId>
+	<artifactId>matsim-scenarios-20xx</artifactId>
 	<version>1.x-SNAPSHOT</version>
 
-	<name>MATSim Template Model</name>
-	<description>A transport model of template</description>
+	<name>MATSim Scenarios 20xx</name>
+	<description>MATSim scenarios for different regions in 2030 and beyond</description>
 
 	<properties>
 		<!-- FIXME: change main class -->
@@ -67,7 +67,7 @@
 		<dependency>
 			<groupId>com.github.matsim-scenarios</groupId>
 			<artifactId>matsim-berlin</artifactId>
-			<version>ab1c6ab137</version>
+			<version>a7b01f7817</version>
 		</dependency>
 
 		<!-- Test dependencies -->
